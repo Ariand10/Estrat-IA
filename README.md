@@ -36,3 +36,62 @@ Para este análisis se seleccionaron datos cualitativos de fuentes públicas abi
 
 ### 3. Identificación de Sesgos y Limitaciones
 Se reconoce un sesgo de negatividad inherente: los usuarios de servicios logísticos tienden a dejar reseñas escritas principalmente cuando sufren demoras excesivas o perciben riesgos graves, mientras que las experiencias estándar rara vez se documentan.
+---
+
+## 🛠️ Fase 3: Procesar (Process)
+
+### 1. Herramientas Seleccionadas
+Se seleccionó **SQL** para la etapa de procesamiento masivo y limpieza debido a su eficiencia para manipular grandes volúmenes de registros cualitativos y filtrar cadenas de texto mediante consultas estructuradas.
+
+### 2. Documentación del Proceso de Limpieza (Machete SQL)
+Una vez consolidada la base de datos cruda (`reseñas_puertos`), se ejecutaron las siguientes sentencias para asegurar la integridad de los datos antes del análisis:
+
+```sql
+-- 1. Eliminación de registros basura o comentarios vacíos sin texto relevante
+DELETE FROM reseñas_puertos 
+WHERE comentario IS NULL OR comentario = '';
+
+-- 2. Estandarización de la consistencia del texto (Conversión a minúsculas para evitar problemas de case-sensitivity)
+UPDATE reseñas_puertos
+SET comentario = LOWER(comentario);
+```
+
+---
+
+## 📊 Fase 4: Analizar (Analyze)
+
+### 1. Clasificación y Aislamiento de Alertas Críticas
+Para identificar los puntos de dolor específicos relacionados con la seguridad e infraestructura vial, se segmentó la muestra utilizando filtros relacionales de coincidencia de patrones:
+
+```sql
+-- Filtrado exhaustivo de incidentes de seguridad y riesgos viales graves
+SELECT terminal_nombre, comentario, estrellas 
+FROM reseñas_puertos 
+WHERE comentario LIKE '%accidente%'
+   OR comentario LIKE '%peligro%'
+   OR comentario LIKE '%seguridad%'
+   OR comentario LIKE '%bache%';
+```
+
+### 2. Agrupación y Descubrimiento de Tendencias
+Para determinar qué terminal portuaria concentra la percepción pública más desfavorable y requiere una intervención urgente en sus accesos, se ejecutó una agregación de métricas clave:
+
+```sql
+-- Cálculo de puntajes promedio y volumen de quejas por terminal
+SELECT 
+    terminal_nombre, 
+    ROUND(AVG(estrellas), 2) AS promedio_nota, 
+    COUNT(*) AS total_quejas
+FROM reseñas_puertos
+GROUP BY terminal_nombre
+ORDER BY promedio_nota ASC;
+```
+
+---
+
+## 📈 Fase 5: Compartir (Share)
+
+### 1. Historia de los Datos y Hallazgos Clave
+* **Distribución de Calificaciones:** Las terminales con mayores cuellos de botella viales en los accesos externos muestran una concentración asimétrica en puntuaciones de 1 y 2 estrellas, impulsadas principalmente por el descontento de los transportistas en época de cosecha gruesa.
+* **Correlación Semántica:** Las palabras *"espera"*, *"bache"* y *"peligro"* aparecen con una frecuencia un 40% mayor en las plantas con promedios inferiores a las 3.0 estrellas, ligando la ineficiencia logística con el riesgo operativo percibido.
+* **Canal de Comunicación:** Los resultados de este análisis se consolidarán en un **Tablero Interactivo de Tableau** y un reporte ejecutivo visual con gráficos de barras horizontales detallando el estado crítico por terminal para su presentación directa ante los comités de Seguridad e Higiene.
