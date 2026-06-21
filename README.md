@@ -95,3 +95,19 @@ ORDER BY promedio_nota ASC;
 * **Distribución de Calificaciones:** Las terminales con mayores cuellos de botella viales en los accesos externos muestran una concentración asimétrica en puntuaciones de 1 y 2 estrellas, impulsadas principalmente por el descontento de los transportistas en época de cosecha gruesa.
 * **Correlación Semántica:** Las palabras *"espera"*, *"bache"* y *"peligro"* aparecen con una frecuencia un 40% mayor en las plantas con promedios inferiores a las 3.0 estrellas, ligando la ineficiencia logística con el riesgo operativo percibido.
 * **Canal de Comunicación:** Los resultados de este análisis se consolidarán en un **Tablero Interactivo de Tableau** y un reporte ejecutivo visual con gráficos de barras horizontales detallando el estado crítico por terminal para su presentación directa ante los comités de Seguridad e Higiene.
+---
+
+## 🚀 Fase 6: Actuar (Act)
+
+### 1. Conclusiones de Alto Nivel
+El análisis de fuentes abiertas (OSINT) demuestra una correlación directa entre el estado de los accesos viales exteriores y la mala calificación de las terminales. El descontento generalizado no se origina en los procesos internos de descarga, sino en los riesgos de seguridad vial (baches, falta de banquinas, iluminación deficiente) y las demoras críticas de ingreso que sufren los transportistas antes de entrar al ejido portuario.
+
+### 2. Recomendaciones Estratégicas para el Cliente
+* **Auditoría Vial Focalizada:** Priorizar inspecciones físicas y técnicas urgentes de seguridad e higiene en los accesos de las terminales identificadas con el promedio de estrellas más bajo.
+* **Mesa de Coordinación Público-Privada:** Utilizar este diagnóstico basado en datos para que los comités de seguridad de las plantas eleven reclamos formales conjuntos a las comunas o vialidad nacional para la reparación de trazas críticas.
+* **Protocolo de Confort y Seguridad:** Diseñar planes de contingencia viales o paradores seguros para mitigar los riesgos de accidentes e incidentes en épocas de cosecha gruesa.
+
+### 3. Entregables Adicionales para el Futuro
+Para robustecer este caso de estudio y profundizar los hallazgos en próximas iteraciones, se propone:
+* Cruzar esta base de datos cualitativa de Google Maps con datos cuantitativos de siniestros viales provistos por portales de noticias locales y efectores de salud de la región.
+* Monitorear reportes de flujos de camiones de la CNRT para correlacionar picos de tráfico con caídas bruscas en las calificaciones semanales.
