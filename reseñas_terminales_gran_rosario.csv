@@ -1,0 +1,461 @@
+﻿fecha,terminal_nombre,rol_usuario,estrellas,comentario
+2023-01-12,Cargill (Pto. Gral. San Martín),Chofer de camión,4,"seguridad eficiente, ingreso ordenado"
+2023-01-15,Terminal 6 (AGD/Bunge),Chofer de camión,2,"accidente en acceso, nadie avisa nada"
+2023-01-20,Viterra (ex-Glencore),Despachante,3,"instalaciones básicas, señalización mejorable"
+2023-01-29,Louis Dreyfus (Gral. Lagos),Supervisor logístico,1,demora 6 horas para descargar en cosecha
+2023-01-31,Oleaginosa Moreno,Operario portuario,5,"seguridad eficiente, ingreso ordenado"
+2023-02-01,Viterra (ex-Glencore),Transportista independiente,2,"espera interminable, sin seguridad vial externa"
+2023-02-09,Terminal 6 (AGD/Bunge),Chofer de camión,1,"espera interminable, sin seguridad vial externa"
+2023-02-13,Terminal 6 (AGD/Bunge),Supervisor logístico,3,"instalaciones básicas, señalización mejorable"
+2023-02-20,Cargill (Pto. Gral. San Martín),Chofer de camión,2,zona de espera sin iluminación de noche
+2023-02-21,Terminal 6 (AGD/Bunge),Operario portuario,3,"demora normal para la época, personal correcto"
+2023-02-22,ACA (San Lorenzo),Chofer de camión,4,"sin demoras, buen estado camino interno"
+2023-02-22,Cargill (Pto. Gral. San Martín),Operario portuario,3,operación estándar sin incidentes
+2023-03-07,Terminal 6 (AGD/Bunge),Operario portuario,2,"accidente en acceso, nadie avisa nada"
+2023-03-10,Viterra (ex-Glencore),Supervisor logístico,1,"espera interminable, sin seguridad vial externa"
+2023-03-22,Viterra (ex-Glencore),Operario portuario,4,"acceso rápido, buen orden de ingreso"
+2023-03-23,Renova S.A. (Timbúes),Supervisor logístico,1,"ingreso caótico, sin control de flujo vehicular"
+2023-03-30,Terminal 6 (AGD/Bunge),Despachante,1,demora 6 horas para descargar en cosecha
+2023-03-30,Puerto BG SRL,Supervisor logístico,4,playa de espera con sombra y baños
+2023-04-01,Cargill (Pto. Gral. San Martín),Despachante,3,"instalaciones básicas, señalización mejorable"
+2023-04-05,Viterra (ex-Glencore),Operario portuario,1,"bache enorme en el acceso, rompí un neumático esperando"
+2023-04-11,Viterra (ex-Glencore),Supervisor logístico,4,playa de espera con sombra y baños
+2023-04-15,Renova S.A. (Timbúes),Chofer de camión,3,"instalaciones básicas, señalización mejorable"
+2023-04-17,Cargill (Pto. Gral. San Martín),Operario portuario,3,operación estándar sin incidentes
+2023-04-22,ACA (San Lorenzo),Transportista independiente,4,mejoraron el acceso este año
+2023-04-28,Renova S.A. (Timbúes),Chofer de camión,2,"peligro en el ingreso, camiones y autos mezclados"
+2023-05-04,ACA (San Lorenzo),Supervisor logístico,3,operación estándar sin incidentes
+2023-05-21,Viterra (ex-Glencore),Transportista independiente,4,"acceso rápido, buen orden de ingreso"
+2023-05-21,Cargill (Pto. Gral. San Martín),Chofer de camión,2,"accidente en acceso, nadie avisa nada"
+2023-05-21,Renova S.A. (Timbúes),Transportista independiente,1,"peligro en el ingreso, camiones y autos mezclados"
+2023-05-23,Terminal 6 (AGD/Bunge),Chofer de camión,1,"accidente en acceso, nadie avisa nada"
+2023-05-23,Renova S.A. (Timbúes),Operario portuario,1,demora 6 horas para descargar en cosecha
+2023-05-26,ACA (San Lorenzo),Transportista independiente,4,mejoraron el acceso este año
+2023-05-27,ACA (San Lorenzo),Chofer de camión,3,"espera 2 horas, aceptable vs otras terminales"
+2023-05-29,Renova S.A. (Timbúes),Chofer de camión,4,"sin demoras, buen estado camino interno"
+2023-05-31,Puerto BG SRL,Chofer de camión,3,"acceso regular, baches menores"
+2023-06-05,Louis Dreyfus (Gral. Lagos),Supervisor logístico,2,"accidente en acceso, nadie avisa nada"
+2023-06-11,Viterra (ex-Glencore),Supervisor logístico,3,"espera 2 horas, aceptable vs otras terminales"
+2023-06-14,Renova S.A. (Timbúes),Transportista independiente,3,operación estándar sin incidentes
+2023-06-15,Cargill (Pto. Gral. San Martín),Transportista independiente,1,accidente evitable con banquina adecuada
+2023-06-16,ACA (San Lorenzo),Transportista independiente,4,"sin demoras, buen estado camino interno"
+2023-06-21,Cargill (Pto. Gral. San Martín),Despachante,3,"demora normal para la época, personal correcto"
+2023-06-24,Puerto BG SRL,Chofer de camión,3,"demora normal para la época, personal correcto"
+2023-06-24,Louis Dreyfus (Gral. Lagos),Transportista independiente,3,"instalaciones básicas, señalización mejorable"
+2023-06-25,Terminal 6 (AGD/Bunge),Despachante,3,"demora normal para la época, personal correcto"
+2023-07-06,ACA (San Lorenzo),Despachante,3,"acceso regular, baches menores"
+2023-07-10,Louis Dreyfus (Gral. Lagos),Operario portuario,5,"acceso rápido, buen orden de ingreso"
+2023-07-11,Terminal 6 (AGD/Bunge),Transportista independiente,2,"bache enorme en el acceso, rompí un neumático esperando"
+2023-07-11,Cargill (Pto. Gral. San Martín),Transportista independiente,2,"peligro en el ingreso, camiones y autos mezclados"
+2023-07-17,Puerto BG SRL,Operario portuario,2,"bache destruyó mi camión, sin respuesta de terminal"
+2023-07-19,Oleaginosa Moreno,Transportista independiente,5,"acceso rápido, buen orden de ingreso"
+2023-07-21,Viterra (ex-Glencore),Chofer de camión,2,"bache destruyó mi camión, sin respuesta de terminal"
+2023-07-21,Terminal 6 (AGD/Bunge),Chofer de camión,2,"bache enorme en el acceso, rompí un neumático esperando"
+2023-07-22,Oleaginosa Moreno,Despachante,4,mejoraron el acceso este año
+2023-07-23,Oleaginosa Moreno,Operario portuario,3,"instalaciones básicas, señalización mejorable"
+2023-07-24,Viterra (ex-Glencore),Supervisor logístico,2,"espera interminable, sin seguridad vial externa"
+2023-07-26,Terminal 6 (AGD/Bunge),Despachante,3,"espera 2 horas, aceptable vs otras terminales"
+2023-07-28,Louis Dreyfus (Gral. Lagos),Operario portuario,4,"seguridad eficiente, ingreso ordenado"
+2023-07-30,Renova S.A. (Timbúes),Operario portuario,2,"accidente en acceso, nadie avisa nada"
+2023-08-01,Puerto BG SRL,Supervisor logístico,3,"instalaciones básicas, señalización mejorable"
+2023-08-03,ACA (San Lorenzo),Transportista independiente,3,"instalaciones básicas, señalización mejorable"
+2023-08-10,Puerto BG SRL,Despachante,1,"bache destruyó mi camión, sin respuesta de terminal"
+2023-08-13,Terminal 6 (AGD/Bunge),Transportista independiente,1,"bache enorme en el acceso, rompí un neumático esperando"
+2023-08-14,Oleaginosa Moreno,Chofer de camión,4,"seguridad eficiente, ingreso ordenado"
+2023-08-17,Terminal 6 (AGD/Bunge),Operario portuario,1,"peligro en el ingreso, camiones y autos mezclados"
+2023-08-18,Renova S.A. (Timbúes),Chofer de camión,4,"acceso rápido, buen orden de ingreso"
+2023-08-21,ACA (San Lorenzo),Despachante,5,"seguridad eficiente, ingreso ordenado"
+2023-08-21,Oleaginosa Moreno,Chofer de camión,4,playa de espera con sombra y baños
+2023-08-23,Puerto BG SRL,Supervisor logístico,3,"demora normal para la época, personal correcto"
+2023-08-24,Oleaginosa Moreno,Despachante,4,"sin demoras, buen estado camino interno"
+2023-08-24,ACA (San Lorenzo),Supervisor logístico,3,"acceso regular, baches menores"
+2023-09-02,Louis Dreyfus (Gral. Lagos),Supervisor logístico,4,"sin demoras, buen estado camino interno"
+2023-09-05,Louis Dreyfus (Gral. Lagos),Supervisor logístico,3,operación estándar sin incidentes
+2023-09-05,Louis Dreyfus (Gral. Lagos),Transportista independiente,2,"accidente en acceso, nadie avisa nada"
+2023-09-06,ACA (San Lorenzo),Chofer de camión,3,"acceso regular, baches menores"
+2023-09-08,Puerto BG SRL,Despachante,3,"instalaciones básicas, señalización mejorable"
+2023-09-13,Cargill (Pto. Gral. San Martín),Operario portuario,2,"peligro en el ingreso, camiones y autos mezclados"
+2023-09-13,Terminal 6 (AGD/Bunge),Despachante,2,accidente evitable con banquina adecuada
+2023-09-16,Puerto BG SRL,Operario portuario,5,"acceso rápido, buen orden de ingreso"
+2023-09-16,Viterra (ex-Glencore),Supervisor logístico,2,"bache enorme en el acceso, rompí un neumático esperando"
+2023-09-17,Oleaginosa Moreno,Despachante,4,"acceso rápido, buen orden de ingreso"
+2023-09-18,Cargill (Pto. Gral. San Martín),Transportista independiente,2,accidente evitable con banquina adecuada
+2023-09-27,Viterra (ex-Glencore),Chofer de camión,1,"peligro en el ingreso, camiones y autos mezclados"
+2023-10-01,Cargill (Pto. Gral. San Martín),Despachante,5,mejoraron el acceso este año
+2023-10-05,Oleaginosa Moreno,Despachante,2,accidente evitable con banquina adecuada
+2023-10-14,Oleaginosa Moreno,Chofer de camión,5,"acceso rápido, buen orden de ingreso"
+2023-10-16,Oleaginosa Moreno,Transportista independiente,5,"acceso rápido, buen orden de ingreso"
+2023-10-20,Terminal 6 (AGD/Bunge),Operario portuario,2,"espera interminable, sin seguridad vial externa"
+2023-10-21,Viterra (ex-Glencore),Transportista independiente,2,"ingreso caótico, sin control de flujo vehicular"
+2023-10-30,Oleaginosa Moreno,Supervisor logístico,5,"sin demoras, buen estado camino interno"
+2023-11-02,Louis Dreyfus (Gral. Lagos),Supervisor logístico,4,"seguridad eficiente, ingreso ordenado"
+2023-11-02,ACA (San Lorenzo),Operario portuario,3,"espera 2 horas, aceptable vs otras terminales"
+2023-11-08,Viterra (ex-Glencore),Despachante,2,"bache destruyó mi camión, sin respuesta de terminal"
+2023-11-09,Cargill (Pto. Gral. San Martín),Transportista independiente,2,"bache enorme en el acceso, rompí un neumático esperando"
+2023-11-10,Terminal 6 (AGD/Bunge),Operario portuario,1,"accidente en acceso, nadie avisa nada"
+2023-11-12,ACA (San Lorenzo),Despachante,2,fila kilométrica sin baño ni sombra
+2023-11-13,Viterra (ex-Glencore),Chofer de camión,1,"bache destruyó mi camión, sin respuesta de terminal"
+2023-11-14,Renova S.A. (Timbúes),Transportista independiente,2,"espera interminable, sin seguridad vial externa"
+2023-11-17,ACA (San Lorenzo),Chofer de camión,2,fila kilométrica sin baño ni sombra
+2023-11-19,Renova S.A. (Timbúes),Chofer de camión,1,accidente evitable con banquina adecuada
+2023-11-20,Terminal 6 (AGD/Bunge),Despachante,1,"bache destruyó mi camión, sin respuesta de terminal"
+2023-11-22,Cargill (Pto. Gral. San Martín),Despachante,3,"acceso regular, baches menores"
+2023-11-23,Terminal 6 (AGD/Bunge),Despachante,3,"demora normal para la época, personal correcto"
+2023-11-27,Renova S.A. (Timbúes),Despachante,1,demora 6 horas para descargar en cosecha
+2023-12-01,Terminal 6 (AGD/Bunge),Despachante,2,"accidente en acceso, nadie avisa nada"
+2023-12-07,Viterra (ex-Glencore),Operario portuario,2,"espera interminable, sin seguridad vial externa"
+2023-12-14,Cargill (Pto. Gral. San Martín),Chofer de camión,4,mejoraron el acceso este año
+2023-12-17,Terminal 6 (AGD/Bunge),Supervisor logístico,2,"ingreso caótico, sin control de flujo vehicular"
+2023-12-22,ACA (San Lorenzo),Supervisor logístico,5,"seguridad eficiente, ingreso ordenado"
+2023-12-23,Oleaginosa Moreno,Operario portuario,3,"demora normal para la época, personal correcto"
+2023-12-25,ACA (San Lorenzo),Despachante,4,"acceso rápido, buen orden de ingreso"
+2024-01-04,Viterra (ex-Glencore),Transportista independiente,1,"ingreso caótico, sin control de flujo vehicular"
+2024-01-11,Terminal 6 (AGD/Bunge),Operario portuario,2,"bache destruyó mi camión, sin respuesta de terminal"
+2024-01-13,Louis Dreyfus (Gral. Lagos),Chofer de camión,3,"instalaciones básicas, señalización mejorable"
+2024-01-25,Terminal 6 (AGD/Bunge),Chofer de camión,4,mejoraron el acceso este año
+2024-01-28,Terminal 6 (AGD/Bunge),Transportista independiente,2,"accidente en acceso, nadie avisa nada"
+2024-01-28,Louis Dreyfus (Gral. Lagos),Transportista independiente,2,zona de espera sin iluminación de noche
+2024-02-02,Louis Dreyfus (Gral. Lagos),Operario portuario,2,fila kilométrica sin baño ni sombra
+2024-02-03,Cargill (Pto. Gral. San Martín),Despachante,3,operación estándar sin incidentes
+2024-02-16,Terminal 6 (AGD/Bunge),Operario portuario,2,accidente evitable con banquina adecuada
+2024-02-16,Viterra (ex-Glencore),Transportista independiente,1,zona de espera sin iluminación de noche
+2024-02-23,Renova S.A. (Timbúes),Operario portuario,2,demora 6 horas para descargar en cosecha
+2024-02-28,Cargill (Pto. Gral. San Martín),Despachante,3,"demora normal para la época, personal correcto"
+2024-03-01,ACA (San Lorenzo),Transportista independiente,3,"demora normal para la época, personal correcto"
+2024-03-09,Cargill (Pto. Gral. San Martín),Despachante,5,"sin demoras, buen estado camino interno"
+2024-03-10,Louis Dreyfus (Gral. Lagos),Operario portuario,3,"acceso regular, baches menores"
+2024-03-11,Puerto BG SRL,Transportista independiente,2,accidente evitable con banquina adecuada
+2024-03-13,Cargill (Pto. Gral. San Martín),Supervisor logístico,3,"acceso regular, baches menores"
+2024-03-14,Cargill (Pto. Gral. San Martín),Chofer de camión,4,"seguridad eficiente, ingreso ordenado"
+2024-03-14,Terminal 6 (AGD/Bunge),Supervisor logístico,2,"espera interminable, sin seguridad vial externa"
+2024-03-18,Oleaginosa Moreno,Transportista independiente,3,operación estándar sin incidentes
+2024-03-21,Renova S.A. (Timbúes),Chofer de camión,3,"instalaciones básicas, señalización mejorable"
+2024-03-22,Cargill (Pto. Gral. San Martín),Despachante,2,"ingreso caótico, sin control de flujo vehicular"
+2024-03-24,Cargill (Pto. Gral. San Martín),Transportista independiente,3,"acceso regular, baches menores"
+2024-03-25,Terminal 6 (AGD/Bunge),Transportista independiente,2,"peligro en el ingreso, camiones y autos mezclados"
+2024-03-25,Cargill (Pto. Gral. San Martín),Operario portuario,3,"acceso regular, baches menores"
+2024-03-29,Oleaginosa Moreno,Chofer de camión,3,operación estándar sin incidentes
+2024-03-31,Renova S.A. (Timbúes),Transportista independiente,3,"acceso regular, baches menores"
+2024-04-01,Renova S.A. (Timbúes),Chofer de camión,3,"espera 2 horas, aceptable vs otras terminales"
+2024-04-02,Terminal 6 (AGD/Bunge),Transportista independiente,2,"accidente en acceso, nadie avisa nada"
+2024-04-04,Puerto BG SRL,Chofer de camión,2,"espera interminable, sin seguridad vial externa"
+2024-04-05,Terminal 6 (AGD/Bunge),Chofer de camión,1,"accidente en acceso, nadie avisa nada"
+2024-04-05,Cargill (Pto. Gral. San Martín),Transportista independiente,2,demora 6 horas para descargar en cosecha
+2024-04-10,Viterra (ex-Glencore),Chofer de camión,3,"instalaciones básicas, señalización mejorable"
+2024-04-13,Terminal 6 (AGD/Bunge),Chofer de camión,3,"demora normal para la época, personal correcto"
+2024-04-16,Terminal 6 (AGD/Bunge),Supervisor logístico,3,operación estándar sin incidentes
+2024-04-18,Cargill (Pto. Gral. San Martín),Despachante,2,zona de espera sin iluminación de noche
+2024-04-23,Oleaginosa Moreno,Despachante,5,"acceso rápido, buen orden de ingreso"
+2024-04-29,Renova S.A. (Timbúes),Transportista independiente,3,"espera 2 horas, aceptable vs otras terminales"
+2024-04-29,Terminal 6 (AGD/Bunge),Transportista independiente,1,fila kilométrica sin baño ni sombra
+2024-04-30,Viterra (ex-Glencore),Despachante,2,fila kilométrica sin baño ni sombra
+2024-05-02,Terminal 6 (AGD/Bunge),Operario portuario,2,accidente evitable con banquina adecuada
+2024-05-05,ACA (San Lorenzo),Transportista independiente,3,operación estándar sin incidentes
+2024-05-08,Viterra (ex-Glencore),Despachante,4,mejoraron el acceso este año
+2024-05-08,Terminal 6 (AGD/Bunge),Supervisor logístico,3,"demora normal para la época, personal correcto"
+2024-05-09,Louis Dreyfus (Gral. Lagos),Despachante,3,"demora normal para la época, personal correcto"
+2024-05-12,Terminal 6 (AGD/Bunge),Despachante,2,"espera interminable, sin seguridad vial externa"
+2024-05-17,Louis Dreyfus (Gral. Lagos),Chofer de camión,1,"peligro en el ingreso, camiones y autos mezclados"
+2024-05-19,Renova S.A. (Timbúes),Supervisor logístico,2,"ingreso caótico, sin control de flujo vehicular"
+2024-05-20,Terminal 6 (AGD/Bunge),Supervisor logístico,1,zona de espera sin iluminación de noche
+2024-05-21,Cargill (Pto. Gral. San Martín),Transportista independiente,3,"demora normal para la época, personal correcto"
+2024-05-25,Cargill (Pto. Gral. San Martín),Chofer de camión,2,accidente evitable con banquina adecuada
+2024-05-26,Terminal 6 (AGD/Bunge),Chofer de camión,2,"espera interminable, sin seguridad vial externa"
+2024-05-28,Viterra (ex-Glencore),Transportista independiente,2,"accidente en acceso, nadie avisa nada"
+2024-05-31,ACA (San Lorenzo),Operario portuario,4,"sin demoras, buen estado camino interno"
+2024-06-04,Viterra (ex-Glencore),Despachante,3,"acceso regular, baches menores"
+2024-06-06,Puerto BG SRL,Operario portuario,1,"peligro en el ingreso, camiones y autos mezclados"
+2024-06-14,Cargill (Pto. Gral. San Martín),Transportista independiente,2,"espera interminable, sin seguridad vial externa"
+2024-06-16,Cargill (Pto. Gral. San Martín),Despachante,3,"demora normal para la época, personal correcto"
+2024-06-18,Renova S.A. (Timbúes),Transportista independiente,3,"demora normal para la época, personal correcto"
+2024-06-22,Terminal 6 (AGD/Bunge),Supervisor logístico,3,operación estándar sin incidentes
+2024-06-23,Terminal 6 (AGD/Bunge),Supervisor logístico,2,"bache enorme en el acceso, rompí un neumático esperando"
+2024-06-25,Renova S.A. (Timbúes),Chofer de camión,3,"espera 2 horas, aceptable vs otras terminales"
+2024-06-26,Terminal 6 (AGD/Bunge),Supervisor logístico,2,zona de espera sin iluminación de noche
+2024-06-26,Viterra (ex-Glencore),Operario portuario,1,"espera interminable, sin seguridad vial externa"
+2024-06-27,Renova S.A. (Timbúes),Chofer de camión,1,"ingreso caótico, sin control de flujo vehicular"
+2024-06-27,Renova S.A. (Timbúes),Transportista independiente,2,accidente evitable con banquina adecuada
+2024-06-27,Renova S.A. (Timbúes),Despachante,2,"bache destruyó mi camión, sin respuesta de terminal"
+2024-06-27,Renova S.A. (Timbúes),Despachante,2,"accidente en acceso, nadie avisa nada"
+2024-06-30,Terminal 6 (AGD/Bunge),Chofer de camión,1,"accidente en acceso, nadie avisa nada"
+2024-06-30,ACA (San Lorenzo),Supervisor logístico,3,"espera 2 horas, aceptable vs otras terminales"
+2024-06-30,Renova S.A. (Timbúes),Transportista independiente,2,"accidente en acceso, nadie avisa nada"
+2024-07-02,Terminal 6 (AGD/Bunge),Chofer de camión,2,"bache destruyó mi camión, sin respuesta de terminal"
+2024-07-05,ACA (San Lorenzo),Supervisor logístico,3,"demora normal para la época, personal correcto"
+2024-07-06,Terminal 6 (AGD/Bunge),Supervisor logístico,1,"bache destruyó mi camión, sin respuesta de terminal"
+2024-07-07,Louis Dreyfus (Gral. Lagos),Supervisor logístico,2,accidente evitable con banquina adecuada
+2024-07-11,ACA (San Lorenzo),Supervisor logístico,3,"acceso regular, baches menores"
+2024-07-12,Viterra (ex-Glencore),Transportista independiente,1,accidente evitable con banquina adecuada
+2024-07-15,Louis Dreyfus (Gral. Lagos),Chofer de camión,2,zona de espera sin iluminación de noche
+2024-07-16,Cargill (Pto. Gral. San Martín),Despachante,3,"espera 2 horas, aceptable vs otras terminales"
+2024-07-16,Viterra (ex-Glencore),Chofer de camión,3,"acceso regular, baches menores"
+2024-07-19,Louis Dreyfus (Gral. Lagos),Supervisor logístico,4,playa de espera con sombra y baños
+2024-07-19,Oleaginosa Moreno,Transportista independiente,4,mejoraron el acceso este año
+2024-07-19,Viterra (ex-Glencore),Despachante,2,fila kilométrica sin baño ni sombra
+2024-07-20,Renova S.A. (Timbúes),Chofer de camión,2,"bache destruyó mi camión, sin respuesta de terminal"
+2024-07-20,Louis Dreyfus (Gral. Lagos),Supervisor logístico,3,"acceso regular, baches menores"
+2024-07-21,Oleaginosa Moreno,Transportista independiente,4,"acceso rápido, buen orden de ingreso"
+2024-07-23,Terminal 6 (AGD/Bunge),Transportista independiente,2,"peligro en el ingreso, camiones y autos mezclados"
+2024-07-24,Puerto BG SRL,Supervisor logístico,2,fila kilométrica sin baño ni sombra
+2024-07-31,Renova S.A. (Timbúes),Supervisor logístico,1,demora 6 horas para descargar en cosecha
+2024-08-02,Viterra (ex-Glencore),Operario portuario,2,"bache enorme en el acceso, rompí un neumático esperando"
+2024-08-06,Renova S.A. (Timbúes),Transportista independiente,2,"peligro en el ingreso, camiones y autos mezclados"
+2024-08-08,Cargill (Pto. Gral. San Martín),Transportista independiente,3,"demora normal para la época, personal correcto"
+2024-08-09,Viterra (ex-Glencore),Transportista independiente,1,"espera interminable, sin seguridad vial externa"
+2024-08-10,Cargill (Pto. Gral. San Martín),Transportista independiente,4,"sin demoras, buen estado camino interno"
+2024-08-12,ACA (San Lorenzo),Despachante,4,"seguridad eficiente, ingreso ordenado"
+2024-08-13,ACA (San Lorenzo),Operario portuario,3,"espera 2 horas, aceptable vs otras terminales"
+2024-08-14,ACA (San Lorenzo),Despachante,4,playa de espera con sombra y baños
+2024-08-15,Terminal 6 (AGD/Bunge),Chofer de camión,1,"accidente en acceso, nadie avisa nada"
+2024-08-19,ACA (San Lorenzo),Chofer de camión,2,"espera interminable, sin seguridad vial externa"
+2024-08-23,Viterra (ex-Glencore),Operario portuario,2,"bache enorme en el acceso, rompí un neumático esperando"
+2024-08-26,Puerto BG SRL,Despachante,1,accidente evitable con banquina adecuada
+2024-08-27,Viterra (ex-Glencore),Chofer de camión,4,"sin demoras, buen estado camino interno"
+2024-09-04,Viterra (ex-Glencore),Despachante,2,"ingreso caótico, sin control de flujo vehicular"
+2024-09-05,Renova S.A. (Timbúes),Chofer de camión,2,accidente evitable con banquina adecuada
+2024-09-06,Renova S.A. (Timbúes),Despachante,3,"espera 2 horas, aceptable vs otras terminales"
+2024-09-10,Oleaginosa Moreno,Despachante,2,"espera interminable, sin seguridad vial externa"
+2024-09-15,Oleaginosa Moreno,Despachante,4,"acceso rápido, buen orden de ingreso"
+2024-09-19,Louis Dreyfus (Gral. Lagos),Operario portuario,1,demora 6 horas para descargar en cosecha
+2024-09-21,ACA (San Lorenzo),Supervisor logístico,3,"espera 2 horas, aceptable vs otras terminales"
+2024-09-21,Terminal 6 (AGD/Bunge),Transportista independiente,3,"instalaciones básicas, señalización mejorable"
+2024-09-23,Renova S.A. (Timbúes),Operario portuario,2,"bache enorme en el acceso, rompí un neumático esperando"
+2024-09-25,Cargill (Pto. Gral. San Martín),Despachante,5,playa de espera con sombra y baños
+2024-09-29,Cargill (Pto. Gral. San Martín),Chofer de camión,1,zona de espera sin iluminación de noche
+2024-10-02,Puerto BG SRL,Despachante,3,"demora normal para la época, personal correcto"
+2024-10-04,Renova S.A. (Timbúes),Despachante,3,"instalaciones básicas, señalización mejorable"
+2024-10-21,Viterra (ex-Glencore),Transportista independiente,2,"espera interminable, sin seguridad vial externa"
+2024-10-22,ACA (San Lorenzo),Supervisor logístico,4,mejoraron el acceso este año
+2024-10-26,Terminal 6 (AGD/Bunge),Chofer de camión,2,"accidente en acceso, nadie avisa nada"
+2024-10-27,Louis Dreyfus (Gral. Lagos),Transportista independiente,2,"espera interminable, sin seguridad vial externa"
+2024-10-31,Viterra (ex-Glencore),Despachante,2,demora 6 horas para descargar en cosecha
+2024-11-07,Cargill (Pto. Gral. San Martín),Supervisor logístico,3,"demora normal para la época, personal correcto"
+2024-11-07,Terminal 6 (AGD/Bunge),Chofer de camión,2,"bache enorme en el acceso, rompí un neumático esperando"
+2024-11-09,Renova S.A. (Timbúes),Chofer de camión,3,operación estándar sin incidentes
+2024-11-10,Viterra (ex-Glencore),Chofer de camión,2,"ingreso caótico, sin control de flujo vehicular"
+2024-11-11,Renova S.A. (Timbúes),Despachante,4,"seguridad eficiente, ingreso ordenado"
+2024-11-14,Renova S.A. (Timbúes),Transportista independiente,4,"acceso rápido, buen orden de ingreso"
+2024-11-14,Oleaginosa Moreno,Transportista independiente,2,"bache enorme en el acceso, rompí un neumático esperando"
+2024-11-18,Cargill (Pto. Gral. San Martín),Operario portuario,2,demora 6 horas para descargar en cosecha
+2024-11-19,Cargill (Pto. Gral. San Martín),Despachante,4,mejoraron el acceso este año
+2024-11-19,Louis Dreyfus (Gral. Lagos),Chofer de camión,4,mejoraron el acceso este año
+2024-11-20,Terminal 6 (AGD/Bunge),Chofer de camión,2,"accidente en acceso, nadie avisa nada"
+2024-11-22,Cargill (Pto. Gral. San Martín),Despachante,3,"instalaciones básicas, señalización mejorable"
+2024-11-25,Terminal 6 (AGD/Bunge),Chofer de camión,2,"bache destruyó mi camión, sin respuesta de terminal"
+2024-11-28,Louis Dreyfus (Gral. Lagos),Operario portuario,4,"sin demoras, buen estado camino interno"
+2024-11-29,Louis Dreyfus (Gral. Lagos),Chofer de camión,4,playa de espera con sombra y baños
+2024-12-03,Renova S.A. (Timbúes),Transportista independiente,3,"espera 2 horas, aceptable vs otras terminales"
+2024-12-05,Terminal 6 (AGD/Bunge),Supervisor logístico,1,"peligro en el ingreso, camiones y autos mezclados"
+2024-12-07,Viterra (ex-Glencore),Operario portuario,2,"espera interminable, sin seguridad vial externa"
+2024-12-12,Louis Dreyfus (Gral. Lagos),Supervisor logístico,2,"bache enorme en el acceso, rompí un neumático esperando"
+2024-12-17,Renova S.A. (Timbúes),Operario portuario,1,"espera interminable, sin seguridad vial externa"
+2024-12-21,Cargill (Pto. Gral. San Martín),Operario portuario,3,"demora normal para la época, personal correcto"
+2024-12-21,Louis Dreyfus (Gral. Lagos),Despachante,4,"sin demoras, buen estado camino interno"
+2024-12-22,Viterra (ex-Glencore),Transportista independiente,3,operación estándar sin incidentes
+2025-01-02,Renova S.A. (Timbúes),Transportista independiente,1,"bache enorme en el acceso, rompí un neumático esperando"
+2025-01-04,Oleaginosa Moreno,Chofer de camión,4,playa de espera con sombra y baños
+2025-01-05,Viterra (ex-Glencore),Supervisor logístico,3,operación estándar sin incidentes
+2025-01-09,Louis Dreyfus (Gral. Lagos),Transportista independiente,3,"espera 2 horas, aceptable vs otras terminales"
+2025-01-10,Terminal 6 (AGD/Bunge),Supervisor logístico,2,"ingreso caótico, sin control de flujo vehicular"
+2025-01-10,ACA (San Lorenzo),Supervisor logístico,3,operación estándar sin incidentes
+2025-01-11,Louis Dreyfus (Gral. Lagos),Despachante,3,"acceso regular, baches menores"
+2025-01-15,Cargill (Pto. Gral. San Martín),Despachante,3,"espera 2 horas, aceptable vs otras terminales"
+2025-01-19,Viterra (ex-Glencore),Supervisor logístico,2,accidente evitable con banquina adecuada
+2025-01-24,Oleaginosa Moreno,Operario portuario,4,mejoraron el acceso este año
+2025-01-25,Cargill (Pto. Gral. San Martín),Transportista independiente,3,"instalaciones básicas, señalización mejorable"
+2025-01-28,Louis Dreyfus (Gral. Lagos),Chofer de camión,2,"bache destruyó mi camión, sin respuesta de terminal"
+2025-01-28,Terminal 6 (AGD/Bunge),Operario portuario,2,zona de espera sin iluminación de noche
+2025-01-28,Oleaginosa Moreno,Transportista independiente,4,"acceso rápido, buen orden de ingreso"
+2025-01-29,Oleaginosa Moreno,Supervisor logístico,3,"acceso regular, baches menores"
+2025-02-03,Terminal 6 (AGD/Bunge),Despachante,2,"bache destruyó mi camión, sin respuesta de terminal"
+2025-02-07,Cargill (Pto. Gral. San Martín),Despachante,1,"ingreso caótico, sin control de flujo vehicular"
+2025-02-15,Renova S.A. (Timbúes),Chofer de camión,3,"espera 2 horas, aceptable vs otras terminales"
+2025-02-15,Cargill (Pto. Gral. San Martín),Transportista independiente,3,"acceso regular, baches menores"
+2025-02-17,Terminal 6 (AGD/Bunge),Chofer de camión,2,fila kilométrica sin baño ni sombra
+2025-02-18,Cargill (Pto. Gral. San Martín),Despachante,2,"ingreso caótico, sin control de flujo vehicular"
+2025-02-19,Puerto BG SRL,Supervisor logístico,5,"sin demoras, buen estado camino interno"
+2025-02-19,Oleaginosa Moreno,Operario portuario,3,operación estándar sin incidentes
+2025-02-22,Renova S.A. (Timbúes),Chofer de camión,2,fila kilométrica sin baño ni sombra
+2025-02-24,Viterra (ex-Glencore),Transportista independiente,3,"espera 2 horas, aceptable vs otras terminales"
+2025-02-26,Viterra (ex-Glencore),Despachante,1,"accidente en acceso, nadie avisa nada"
+2025-02-27,Terminal 6 (AGD/Bunge),Despachante,3,"demora normal para la época, personal correcto"
+2025-03-19,Oleaginosa Moreno,Chofer de camión,3,"demora normal para la época, personal correcto"
+2025-03-25,Viterra (ex-Glencore),Chofer de camión,1,"ingreso caótico, sin control de flujo vehicular"
+2025-03-27,Renova S.A. (Timbúes),Operario portuario,3,"espera 2 horas, aceptable vs otras terminales"
+2025-03-27,Puerto BG SRL,Despachante,1,"espera interminable, sin seguridad vial externa"
+2025-03-29,Cargill (Pto. Gral. San Martín),Transportista independiente,3,"acceso regular, baches menores"
+2025-03-31,ACA (San Lorenzo),Supervisor logístico,3,"instalaciones básicas, señalización mejorable"
+2025-03-31,Louis Dreyfus (Gral. Lagos),Despachante,5,"acceso rápido, buen orden de ingreso"
+2025-04-01,Terminal 6 (AGD/Bunge),Chofer de camión,3,"espera 2 horas, aceptable vs otras terminales"
+2025-04-04,Cargill (Pto. Gral. San Martín),Operario portuario,3,"instalaciones básicas, señalización mejorable"
+2025-04-06,Renova S.A. (Timbúes),Chofer de camión,2,"accidente en acceso, nadie avisa nada"
+2025-04-07,ACA (San Lorenzo),Supervisor logístico,4,"acceso rápido, buen orden de ingreso"
+2025-04-08,Louis Dreyfus (Gral. Lagos),Transportista independiente,3,"espera 2 horas, aceptable vs otras terminales"
+2025-04-12,Renova S.A. (Timbúes),Supervisor logístico,2,accidente evitable con banquina adecuada
+2025-04-14,Cargill (Pto. Gral. San Martín),Operario portuario,3,"acceso regular, baches menores"
+2025-04-15,ACA (San Lorenzo),Chofer de camión,3,operación estándar sin incidentes
+2025-04-15,Oleaginosa Moreno,Operario portuario,3,operación estándar sin incidentes
+2025-04-16,ACA (San Lorenzo),Operario portuario,4,"sin demoras, buen estado camino interno"
+2025-04-21,Terminal 6 (AGD/Bunge),Despachante,3,"acceso regular, baches menores"
+2025-04-21,Viterra (ex-Glencore),Chofer de camión,2,"accidente en acceso, nadie avisa nada"
+2025-04-23,ACA (San Lorenzo),Despachante,4,"sin demoras, buen estado camino interno"
+2025-04-24,Renova S.A. (Timbúes),Chofer de camión,2,zona de espera sin iluminación de noche
+2025-04-27,Puerto BG SRL,Operario portuario,3,"espera 2 horas, aceptable vs otras terminales"
+2025-05-08,Renova S.A. (Timbúes),Supervisor logístico,2,fila kilométrica sin baño ni sombra
+2025-05-08,Cargill (Pto. Gral. San Martín),Supervisor logístico,3,"acceso regular, baches menores"
+2025-05-09,Terminal 6 (AGD/Bunge),Transportista independiente,3,operación estándar sin incidentes
+2025-05-13,Cargill (Pto. Gral. San Martín),Operario portuario,4,"sin demoras, buen estado camino interno"
+2025-05-14,Terminal 6 (AGD/Bunge),Supervisor logístico,2,zona de espera sin iluminación de noche
+2025-05-14,Terminal 6 (AGD/Bunge),Chofer de camión,3,operación estándar sin incidentes
+2025-05-16,Renova S.A. (Timbúes),Supervisor logístico,3,"instalaciones básicas, señalización mejorable"
+2025-05-16,Puerto BG SRL,Chofer de camión,4,"sin demoras, buen estado camino interno"
+2025-05-16,Terminal 6 (AGD/Bunge),Transportista independiente,3,operación estándar sin incidentes
+2025-05-21,Louis Dreyfus (Gral. Lagos),Supervisor logístico,5,"sin demoras, buen estado camino interno"
+2025-05-23,Cargill (Pto. Gral. San Martín),Supervisor logístico,2,accidente evitable con banquina adecuada
+2025-05-25,Renova S.A. (Timbúes),Supervisor logístico,3,operación estándar sin incidentes
+2025-05-28,Puerto BG SRL,Supervisor logístico,2,"accidente en acceso, nadie avisa nada"
+2025-05-28,Louis Dreyfus (Gral. Lagos),Operario portuario,3,operación estándar sin incidentes
+2025-05-30,Puerto BG SRL,Despachante,3,"espera 2 horas, aceptable vs otras terminales"
+2025-05-30,Renova S.A. (Timbúes),Transportista independiente,2,zona de espera sin iluminación de noche
+2025-06-01,Viterra (ex-Glencore),Transportista independiente,2,"peligro en el ingreso, camiones y autos mezclados"
+2025-06-01,Terminal 6 (AGD/Bunge),Operario portuario,1,fila kilométrica sin baño ni sombra
+2025-06-10,Louis Dreyfus (Gral. Lagos),Transportista independiente,3,"espera 2 horas, aceptable vs otras terminales"
+2025-06-23,Viterra (ex-Glencore),Operario portuario,2,fila kilométrica sin baño ni sombra
+2025-06-24,ACA (San Lorenzo),Operario portuario,4,playa de espera con sombra y baños
+2025-06-24,ACA (San Lorenzo),Chofer de camión,4,mejoraron el acceso este año
+2025-06-25,Louis Dreyfus (Gral. Lagos),Operario portuario,2,"espera interminable, sin seguridad vial externa"
+2025-06-25,Cargill (Pto. Gral. San Martín),Supervisor logístico,2,"peligro en el ingreso, camiones y autos mezclados"
+2025-06-29,Oleaginosa Moreno,Transportista independiente,3,"acceso regular, baches menores"
+2025-07-03,Viterra (ex-Glencore),Supervisor logístico,3,"espera 2 horas, aceptable vs otras terminales"
+2025-07-07,Oleaginosa Moreno,Operario portuario,5,mejoraron el acceso este año
+2025-07-07,Terminal 6 (AGD/Bunge),Transportista independiente,1,accidente evitable con banquina adecuada
+2025-07-11,ACA (San Lorenzo),Supervisor logístico,5,mejoraron el acceso este año
+2025-07-12,Louis Dreyfus (Gral. Lagos),Transportista independiente,3,"instalaciones básicas, señalización mejorable"
+2025-07-13,Terminal 6 (AGD/Bunge),Chofer de camión,1,accidente evitable con banquina adecuada
+2025-07-17,Terminal 6 (AGD/Bunge),Operario portuario,2,demora 6 horas para descargar en cosecha
+2025-07-20,Oleaginosa Moreno,Chofer de camión,4,"acceso rápido, buen orden de ingreso"
+2025-07-20,ACA (San Lorenzo),Chofer de camión,3,"demora normal para la época, personal correcto"
+2025-07-21,Cargill (Pto. Gral. San Martín),Despachante,3,"demora normal para la época, personal correcto"
+2025-07-24,Viterra (ex-Glencore),Supervisor logístico,3,"espera 2 horas, aceptable vs otras terminales"
+2025-07-24,Viterra (ex-Glencore),Operario portuario,2,demora 6 horas para descargar en cosecha
+2025-07-27,Puerto BG SRL,Chofer de camión,1,demora 6 horas para descargar en cosecha
+2025-08-03,Cargill (Pto. Gral. San Martín),Transportista independiente,3,"espera 2 horas, aceptable vs otras terminales"
+2025-08-09,Cargill (Pto. Gral. San Martín),Chofer de camión,4,playa de espera con sombra y baños
+2025-08-10,Cargill (Pto. Gral. San Martín),Despachante,4,"sin demoras, buen estado camino interno"
+2025-08-12,Cargill (Pto. Gral. San Martín),Despachante,1,accidente evitable con banquina adecuada
+2025-08-15,Cargill (Pto. Gral. San Martín),Transportista independiente,4,"seguridad eficiente, ingreso ordenado"
+2025-08-16,Terminal 6 (AGD/Bunge),Supervisor logístico,2,"ingreso caótico, sin control de flujo vehicular"
+2025-08-17,ACA (San Lorenzo),Operario portuario,4,"acceso rápido, buen orden de ingreso"
+2025-08-21,Cargill (Pto. Gral. San Martín),Chofer de camión,4,"acceso rápido, buen orden de ingreso"
+2025-08-26,Viterra (ex-Glencore),Despachante,1,"peligro en el ingreso, camiones y autos mezclados"
+2025-08-27,Cargill (Pto. Gral. San Martín),Chofer de camión,2,zona de espera sin iluminación de noche
+2025-08-29,Puerto BG SRL,Chofer de camión,4,"seguridad eficiente, ingreso ordenado"
+2025-08-31,Terminal 6 (AGD/Bunge),Supervisor logístico,2,zona de espera sin iluminación de noche
+2025-08-31,Cargill (Pto. Gral. San Martín),Supervisor logístico,2,"accidente en acceso, nadie avisa nada"
+2025-09-03,Renova S.A. (Timbúes),Supervisor logístico,2,"ingreso caótico, sin control de flujo vehicular"
+2025-09-05,Louis Dreyfus (Gral. Lagos),Chofer de camión,3,"instalaciones básicas, señalización mejorable"
+2025-09-07,Louis Dreyfus (Gral. Lagos),Despachante,1,"espera interminable, sin seguridad vial externa"
+2025-09-07,Puerto BG SRL,Despachante,2,"bache enorme en el acceso, rompí un neumático esperando"
+2025-09-13,Viterra (ex-Glencore),Operario portuario,2,demora 6 horas para descargar en cosecha
+2025-09-15,ACA (San Lorenzo),Despachante,4,mejoraron el acceso este año
+2025-09-17,Louis Dreyfus (Gral. Lagos),Despachante,5,playa de espera con sombra y baños
+2025-09-21,Cargill (Pto. Gral. San Martín),Chofer de camión,3,"acceso regular, baches menores"
+2025-09-21,Terminal 6 (AGD/Bunge),Despachante,2,"bache destruyó mi camión, sin respuesta de terminal"
+2025-09-26,Viterra (ex-Glencore),Supervisor logístico,3,"instalaciones básicas, señalización mejorable"
+2025-09-30,Louis Dreyfus (Gral. Lagos),Chofer de camión,2,"bache destruyó mi camión, sin respuesta de terminal"
+2025-10-02,Louis Dreyfus (Gral. Lagos),Chofer de camión,2,zona de espera sin iluminación de noche
+2025-10-02,Louis Dreyfus (Gral. Lagos),Despachante,2,"espera interminable, sin seguridad vial externa"
+2025-10-07,Terminal 6 (AGD/Bunge),Chofer de camión,1,accidente evitable con banquina adecuada
+2025-10-08,ACA (San Lorenzo),Despachante,4,playa de espera con sombra y baños
+2025-10-19,Terminal 6 (AGD/Bunge),Despachante,4,"seguridad eficiente, ingreso ordenado"
+2025-10-28,Puerto BG SRL,Transportista independiente,4,mejoraron el acceso este año
+2025-10-31,Terminal 6 (AGD/Bunge),Supervisor logístico,2,"accidente en acceso, nadie avisa nada"
+2025-11-01,Renova S.A. (Timbúes),Despachante,3,"instalaciones básicas, señalización mejorable"
+2025-11-05,Viterra (ex-Glencore),Operario portuario,1,"peligro en el ingreso, camiones y autos mezclados"
+2025-11-05,Terminal 6 (AGD/Bunge),Supervisor logístico,2,demora 6 horas para descargar en cosecha
+2025-11-05,Terminal 6 (AGD/Bunge),Chofer de camión,3,"espera 2 horas, aceptable vs otras terminales"
+2025-11-06,Viterra (ex-Glencore),Transportista independiente,3,operación estándar sin incidentes
+2025-11-08,ACA (San Lorenzo),Operario portuario,2,demora 6 horas para descargar en cosecha
+2025-11-09,Renova S.A. (Timbúes),Despachante,3,"instalaciones básicas, señalización mejorable"
+2025-11-13,Renova S.A. (Timbúes),Chofer de camión,3,operación estándar sin incidentes
+2025-11-21,Cargill (Pto. Gral. San Martín),Supervisor logístico,5,"sin demoras, buen estado camino interno"
+2025-11-24,Louis Dreyfus (Gral. Lagos),Transportista independiente,2,"bache enorme en el acceso, rompí un neumático esperando"
+2025-11-30,Cargill (Pto. Gral. San Martín),Supervisor logístico,2,"bache enorme en el acceso, rompí un neumático esperando"
+2025-12-03,Cargill (Pto. Gral. San Martín),Despachante,3,"instalaciones básicas, señalización mejorable"
+2025-12-06,Renova S.A. (Timbúes),Operario portuario,2,"ingreso caótico, sin control de flujo vehicular"
+2025-12-06,Louis Dreyfus (Gral. Lagos),Despachante,3,"espera 2 horas, aceptable vs otras terminales"
+2025-12-19,Renova S.A. (Timbúes),Chofer de camión,4,playa de espera con sombra y baños
+2025-12-23,Viterra (ex-Glencore),Despachante,3,"espera 2 horas, aceptable vs otras terminales"
+2025-12-26,Terminal 6 (AGD/Bunge),Transportista independiente,1,fila kilométrica sin baño ni sombra
+2025-12-28,Viterra (ex-Glencore),Despachante,2,"peligro en el ingreso, camiones y autos mezclados"
+2025-12-29,Cargill (Pto. Gral. San Martín),Chofer de camión,1,"ingreso caótico, sin control de flujo vehicular"
+2026-01-03,Oleaginosa Moreno,Chofer de camión,3,"instalaciones básicas, señalización mejorable"
+2026-01-04,Terminal 6 (AGD/Bunge),Operario portuario,2,fila kilométrica sin baño ni sombra
+2026-01-06,Renova S.A. (Timbúes),Transportista independiente,3,"demora normal para la época, personal correcto"
+2026-01-09,Terminal 6 (AGD/Bunge),Supervisor logístico,2,zona de espera sin iluminación de noche
+2026-01-11,Oleaginosa Moreno,Operario portuario,5,"seguridad eficiente, ingreso ordenado"
+2026-01-12,Terminal 6 (AGD/Bunge),Chofer de camión,2,"bache enorme en el acceso, rompí un neumático esperando"
+2026-01-15,Renova S.A. (Timbúes),Chofer de camión,2,"ingreso caótico, sin control de flujo vehicular"
+2026-01-16,ACA (San Lorenzo),Despachante,4,"acceso rápido, buen orden de ingreso"
+2026-01-17,Viterra (ex-Glencore),Despachante,1,accidente evitable con banquina adecuada
+2026-01-17,Renova S.A. (Timbúes),Operario portuario,2,"espera interminable, sin seguridad vial externa"
+2026-01-21,Terminal 6 (AGD/Bunge),Chofer de camión,3,"demora normal para la época, personal correcto"
+2026-01-22,Renova S.A. (Timbúes),Chofer de camión,2,zona de espera sin iluminación de noche
+2026-01-24,Viterra (ex-Glencore),Transportista independiente,2,demora 6 horas para descargar en cosecha
+2026-01-27,Cargill (Pto. Gral. San Martín),Chofer de camión,3,"acceso regular, baches menores"
+2026-02-01,Terminal 6 (AGD/Bunge),Chofer de camión,3,"acceso regular, baches menores"
+2026-02-02,ACA (San Lorenzo),Chofer de camión,4,"sin demoras, buen estado camino interno"
+2026-02-04,Terminal 6 (AGD/Bunge),Operario portuario,1,fila kilométrica sin baño ni sombra
+2026-02-07,Louis Dreyfus (Gral. Lagos),Supervisor logístico,4,mejoraron el acceso este año
+2026-02-07,Terminal 6 (AGD/Bunge),Chofer de camión,2,demora 6 horas para descargar en cosecha
+2026-02-07,Renova S.A. (Timbúes),Transportista independiente,2,fila kilométrica sin baño ni sombra
+2026-02-07,Louis Dreyfus (Gral. Lagos),Operario portuario,3,"demora normal para la época, personal correcto"
+2026-02-09,Oleaginosa Moreno,Transportista independiente,4,"acceso rápido, buen orden de ingreso"
+2026-02-11,Louis Dreyfus (Gral. Lagos),Transportista independiente,2,"espera interminable, sin seguridad vial externa"
+2026-02-13,Puerto BG SRL,Operario portuario,3,"instalaciones básicas, señalización mejorable"
+2026-02-13,Puerto BG SRL,Chofer de camión,2,zona de espera sin iluminación de noche
+2026-02-14,Puerto BG SRL,Chofer de camión,2,"ingreso caótico, sin control de flujo vehicular"
+2026-02-15,Oleaginosa Moreno,Operario portuario,4,mejoraron el acceso este año
+2026-02-16,Louis Dreyfus (Gral. Lagos),Despachante,2,fila kilométrica sin baño ni sombra
+2026-02-18,Cargill (Pto. Gral. San Martín),Supervisor logístico,3,operación estándar sin incidentes
+2026-02-23,Terminal 6 (AGD/Bunge),Transportista independiente,4,"acceso rápido, buen orden de ingreso"
+2026-02-23,Oleaginosa Moreno,Operario portuario,5,"acceso rápido, buen orden de ingreso"
+2026-02-24,Puerto BG SRL,Supervisor logístico,2,"ingreso caótico, sin control de flujo vehicular"
+2026-02-27,Renova S.A. (Timbúes),Chofer de camión,3,"acceso regular, baches menores"
+2026-03-02,Oleaginosa Moreno,Transportista independiente,5,"seguridad eficiente, ingreso ordenado"
+2026-03-07,Terminal 6 (AGD/Bunge),Operario portuario,2,"accidente en acceso, nadie avisa nada"
+2026-03-11,Cargill (Pto. Gral. San Martín),Operario portuario,2,"ingreso caótico, sin control de flujo vehicular"
+2026-03-13,Louis Dreyfus (Gral. Lagos),Supervisor logístico,2,"espera interminable, sin seguridad vial externa"
+2026-03-15,Terminal 6 (AGD/Bunge),Supervisor logístico,3,"espera 2 horas, aceptable vs otras terminales"
+2026-03-17,Viterra (ex-Glencore),Despachante,3,"espera 2 horas, aceptable vs otras terminales"
+2026-03-21,Louis Dreyfus (Gral. Lagos),Operario portuario,5,"acceso rápido, buen orden de ingreso"
+2026-03-24,ACA (San Lorenzo),Supervisor logístico,3,"espera 2 horas, aceptable vs otras terminales"
+2026-03-26,Cargill (Pto. Gral. San Martín),Transportista independiente,3,"acceso regular, baches menores"
+2026-03-27,Louis Dreyfus (Gral. Lagos),Chofer de camión,1,fila kilométrica sin baño ni sombra
+2026-04-02,Viterra (ex-Glencore),Despachante,2,"ingreso caótico, sin control de flujo vehicular"
+2026-04-02,Cargill (Pto. Gral. San Martín),Supervisor logístico,2,"bache destruyó mi camión, sin respuesta de terminal"
+2026-04-06,Louis Dreyfus (Gral. Lagos),Operario portuario,2,demora 6 horas para descargar en cosecha
+2026-04-07,Renova S.A. (Timbúes),Supervisor logístico,2,"peligro en el ingreso, camiones y autos mezclados"
+2026-04-10,Terminal 6 (AGD/Bunge),Despachante,1,"bache destruyó mi camión, sin respuesta de terminal"
+2026-04-11,Cargill (Pto. Gral. San Martín),Chofer de camión,3,"acceso regular, baches menores"
+2026-04-13,ACA (San Lorenzo),Despachante,3,"espera 2 horas, aceptable vs otras terminales"
+2026-04-13,Puerto BG SRL,Supervisor logístico,3,operación estándar sin incidentes
+2026-04-17,Oleaginosa Moreno,Transportista independiente,4,mejoraron el acceso este año
+2026-04-20,Oleaginosa Moreno,Operario portuario,5,"seguridad eficiente, ingreso ordenado"
+2026-04-21,Terminal 6 (AGD/Bunge),Operario portuario,2,"espera interminable, sin seguridad vial externa"
+2026-04-22,ACA (San Lorenzo),Transportista independiente,4,"sin demoras, buen estado camino interno"
+2026-04-27,Cargill (Pto. Gral. San Martín),Supervisor logístico,2,"bache destruyó mi camión, sin respuesta de terminal"
+2026-04-28,Louis Dreyfus (Gral. Lagos),Operario portuario,4,mejoraron el acceso este año
+2026-04-30,Oleaginosa Moreno,Chofer de camión,3,operación estándar sin incidentes
+2026-05-03,Renova S.A. (Timbúes),Chofer de camión,3,"demora normal para la época, personal correcto"
+2026-05-05,Louis Dreyfus (Gral. Lagos),Supervisor logístico,4,playa de espera con sombra y baños
+2026-05-06,Renova S.A. (Timbúes),Despachante,1,fila kilométrica sin baño ni sombra
+2026-05-07,Louis Dreyfus (Gral. Lagos),Operario portuario,4,playa de espera con sombra y baños
+2026-05-07,Oleaginosa Moreno,Chofer de camión,3,"espera 2 horas, aceptable vs otras terminales"
+2026-05-09,ACA (San Lorenzo),Chofer de camión,4,"acceso rápido, buen orden de ingreso"
+2026-05-11,Terminal 6 (AGD/Bunge),Operario portuario,2,"bache enorme en el acceso, rompí un neumático esperando"
+2026-05-14,Puerto BG SRL,Operario portuario,2,demora 6 horas para descargar en cosecha
+2026-05-20,Cargill (Pto. Gral. San Martín),Transportista independiente,2,accidente evitable con banquina adecuada
+2026-05-24,Puerto BG SRL,Despachante,1,accidente evitable con banquina adecuada
+2026-05-28,Cargill (Pto. Gral. San Martín),Chofer de camión,5,playa de espera con sombra y baños
+2026-05-30,Puerto BG SRL,Transportista independiente,4,"sin demoras, buen estado camino interno"
