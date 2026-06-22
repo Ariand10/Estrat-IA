@@ -3,6 +3,12 @@
 Este proyecto final aplica los conocimientos adquiridos en la certificación de **Google Data Analytics** para realizar un análisis cualitativo externo sobre la percepción de seguridad, accesos y demoras operativas en el Cordón Industrial del Gran Rosario (San Lorenzo, Puerto General San Martín y Timbúes).
 📂 **Dataset:** [`reseñas_terminales_gran_rosario.csv`](reseñas_terminales_gran_rosario.csv)  
 460 registros · 5 columnas · período 2023–2026 · datos simulados con estructura OSINT real
+
+> ⚠️ **Nota metodológica:** El dataset utilizado en este proyecto
+> (`reseñas_terminales_gran_rosario.csv`) es sintético. Fue generado
+> con distribuciones estadísticas verosímiles para simular el tipo de
+> datos que produciría una extracción OSINT real de Google Maps.
+> Las terminales son reales; los registros individuales, no.
 ---
 ## 📋 Fase 1: Preguntar (Ask)
 
