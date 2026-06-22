@@ -1,9 +1,9 @@
 # Diagnóstico de Seguridad e Infraestructura en Terminales Portuarias del Gran Rosario (Metodología OSINT)
 
 Este proyecto final aplica los conocimientos adquiridos en la certificación de **Google Data Analytics** para realizar un análisis cualitativo externo sobre la percepción de seguridad, accesos y demoras operativas en el Cordón Industrial del Gran Rosario (San Lorenzo, Puerto General San Martín y Timbúes).
-
+📂 **Dataset:** [`reseñas_terminales_gran_rosario.csv`](reseñas_terminales_gran_rosario.csv)  
+460 registros · 5 columnas · período 2023–2026 · datos simulados con estructura OSINT real
 ---
-
 ## 📋 Fase 1: Preguntar (Ask)
 
 ### 1. Definición de la Tarea Comercial
@@ -92,6 +92,7 @@ ORDER BY promedio_nota ASC;
 ## 📈 Fase 5: Compartir (Share)
 
 ### 1. Historia de los Datos y Hallazgos Clave
+<img width="1475" height="411" alt="image" src="https://github.com/user-attachments/assets/257f2b27-120f-4742-a68d-70eeace78b08" />
 * **Distribución de Calificaciones:** Las terminales con mayores cuellos de botella viales en los accesos externos muestran una concentración asimétrica en puntuaciones de 1 y 2 estrellas, impulsadas principalmente por el descontento de los transportistas en época de cosecha gruesa.
 * **Correlación Semántica:** Las palabras *"espera"*, *"bache"* y *"peligro"* aparecen con una frecuencia un 40% mayor en las plantas con promedios inferiores a las 3.0 estrellas, ligando la ineficiencia logística con el riesgo operativo percibido.
 * **Canal de Comunicación:** Los resultados de este análisis se consolidarán en un **Tablero Interactivo de Tableau** y un reporte ejecutivo visual con gráficos de barras horizontales detallando el estado crítico por terminal para su presentación directa ante los comités de Seguridad e Higiene.
